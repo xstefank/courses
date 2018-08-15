@@ -1,0 +1,3 @@
+[submodule "nodejs-dev/node-web-server"]
+	path = nodejs-dev/node-web-server
+	url = git@github.com:xstefank/node-web-server.git
